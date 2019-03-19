@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Secret I-scream",
+      "calories": 480,
+      "type": "ice cream",
+      "ingredients": [
+        "Chocolate",
+        "milk",
+        "candy sprinkles",
+        "cookie"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },    {
+      "name": "Vanilla's Dream",
+      "calories": 375,
+      "type": "ice cream",
+      "ingredients": [
+        "wild strawberries",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
